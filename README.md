@@ -11,3 +11,5 @@ The languages I use the most are C++ and Python. My knowledge on C++ is not that
 - 💜 [Instagram](https://www.instagram.com/anhedonia.js/)
 - 💙 Discord: Anti - Date#8591
 - 💚 [Steam](https://steamcommunity.com/id/antidate)
+
+![Languages](https://i.hizliresim.com/OerJzH.png)
