@@ -9,7 +9,7 @@ I've always been keen on computers and kind of stuff since I was 8 years old. My
 The languages I use the most are C++ and Python. My knowledge on C++ is not that enough but I'm still improving myself.
 
 - 💜 [Instagram](https://www.instagram.com/anhedonia.js/)
-- 💙 Discord: Anti - Date#8591
+- 💙 Discord: //💜$crim#6567
 - 💚 [Steam](https://steamcommunity.com/id/antidate)
 
 ![Languages](https://i.hizliresim.com/vqNFYk.png)
