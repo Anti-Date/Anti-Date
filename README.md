@@ -14,4 +14,4 @@ The languages I use the most are C++ and Python. My knowledge on C++ is not that
 
 ![Languages](https://i.hizliresim.com/vqNFYk.png)
 
-[![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=Anti-Date)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=Anti-Date&?count_private=true](https://github.com/anuraghazra/github-readme-stats)
