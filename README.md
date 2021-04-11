@@ -9,7 +9,6 @@ I've always been keen on computers and kind of stuff since I was 8 years old. My
 I have had experience in discord.py for a year
 
 - 💜 [Instagram](https://www.instagram.com/anhedonia.js/)
-- 💙 Discord: Anti - Date#6567
 - 💚 [Steam](https://steamcommunity.com/id/antidate)
 
 ![Languages](https://i.hizliresim.com/vqNFYk.png)
